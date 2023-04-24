@@ -1,4 +1,5 @@
-# Project
+Show me what you got!))
+Let's cook whatever you have in your fridge or pantry!
 My project is for those, who'd like to learn to cook. 
 It is an app, that gives you a recipe, based on what ingredients you have. 
 Just type in a couple of things you have in your fridge and get a simple recipe of what you can cook from them. Just press "Give me a recipe".
